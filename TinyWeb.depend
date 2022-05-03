@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1651576475 source:/home/william/Documents/GameDev/TinyWeb/main.cpp
+	<exception>
+	<string>
+	<iostream>
+	<SDL2/SDL.h>
+
+1651577129 source:/home/william/Downloads/01_hello_SDL/01_hello_SDL.cpp
+	<SDL2/SDL.h>
+	<stdio.h>
+
